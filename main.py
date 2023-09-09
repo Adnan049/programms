@@ -1,5 +1,7 @@
 import random
 
+print("генератор паролей")
+
 base = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
 size = int(input("Какой размер пароля?"))
